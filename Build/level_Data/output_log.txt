@@ -1,0 +1,72 @@
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GT 620 (ID=0x1049)
+    Vendor:   NVIDIA
+    VRAM:     979 MB
+    Driver:   21.21.13.7654
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\aryan.pourranjbar2\Desktop\Ar-assessment\Build\level_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\aryan.pourranjbar2\Desktop\Ar-assessment\Build\level_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\aryan.pourranjbar2\Desktop\Ar-assessment\Build\level_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\aryan.pourranjbar2\Desktop\Ar-assessment\Build\level_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+- Completed reload, in  0.016 seconds
+desktop: 1680x1050 60Hz; virtual: 1680x1050 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.845450 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: b0c -> priority: 1 
+pressed
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+pressed
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+pressed
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+pressed
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+pressed
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.096400 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 236.
+Total: 0.341719 ms (FindLiveObjects: 0.046790 ms CreateObjectMapping: 0.071845 ms MarkObjects: 0.210103 ms  DeleteObjects: 0.011471 ms)
+
+pressed
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+pressed
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+pressed
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+pressed
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+pressed
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+pressed
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
